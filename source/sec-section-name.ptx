@@ -4,5 +4,6 @@
   <title>Section Title</title>
 
   <p> Text of section. </p>
+  <p> Some math: <me>\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}</me> </p>
 
 </section>
